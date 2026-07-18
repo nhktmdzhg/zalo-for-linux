@@ -72,7 +72,7 @@ function checkUpdates(callback) {
   if (!buildInfo) return done({ error: 'build-info.json not found' });
 
   const req = https.get(
-    'https://api.github.com/repos/doandat943/zalo-for-linux/releases/latest',
+    'https://api.github.com/repos/nhktmdzhg/zalo-for-linux/releases/latest',
     { headers: { 'User-Agent': 'zalo-for-linux-updater' } },
     (res) => {
       let data = '';

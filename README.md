@@ -1,6 +1,6 @@
 # Zalo for Linux 🐧
 
-[![Build Status](https://github.com/doandat943/zalo-for-linux/actions/workflows/build.yml/badge.svg)](https://github.com/doandat943/zalo-for-linux/actions/workflows/build.yml)
+[![Build Status](https://github.com/nhktmdzhg/zalo-for-linux/actions/workflows/build.yml/badge.svg)](https://github.com/nhktmdzhg/zalo-for-linux/actions/workflows/build.yml)
 
 An unofficial, community-driven port of the Zalo desktop application for **Linux only**, created by repackaging the official macOS client into a standard AppImage with integrated ZaDark.
 
@@ -48,7 +48,7 @@ We strongly recommend using **Gear Lever** to integrate the AppImage perfectly i
 
 **Note:** Zalo for Linux comes with a built-in updater. Whenever a new release is available, you will be prompted within the Zalo app to download and apply the update seamlessly without leaving the application.
 
-1.  Download the latest `.AppImage` file from the [**Releases**](https://github.com/doandat943/zalo-for-linux/releases) page.
+1.  Download the latest `.AppImage` file from the [**Releases**](https://github.com/nhktmdzhg/zalo-for-linux/releases) page.
 2.  Install **Gear Lever** from [Flathub](https://flathub.org/en/apps/it.mijorus.gearlever).
 3.  Open **Gear Lever**.
 4.  Click the **"Open"** button in the top-left corner and select the `.AppImage` file you downloaded.
@@ -73,7 +73,7 @@ Steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/doandat943/zalo-for-linux.git
+git clone https://github.com/nhktmdzhg/zalo-for-linux.git
 cd zalo-for-linux
 # Then initialize or update submodules
 git submodule update --init --recursive

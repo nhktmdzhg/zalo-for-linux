@@ -24,7 +24,7 @@ sudo apt-get update && sudo apt-get install -y p7zip-full build-essential libssl
 
 ```bash
 # Clone
-git clone https://github.com/doandat943/zalo-for-linux.git
+git clone https://github.com/nhktmdzhg/zalo-for-linux.git
 cd zalo-for-linux
 
 # Init submodules (ZaDark, etc.)
